@@ -1,7 +1,7 @@
 # Olá 👋, Prazer Bianca Iolanda
 
 🚀 **Desenvolvedora Junior | .NET | C# | Backend**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 Eu construo **sistemas inteligentes**, **plataformas SaaS** e **aplicações web escaláveis** focadas em resolver problemas reais de negócio.
 
