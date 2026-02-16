@@ -64,19 +64,17 @@ Também desenvolvo soluções que unem **tecnologia, produto e estratégia**, tr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-
 ---
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biancaiolanda&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaiolanda&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biancaiolanda&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biancaiolanda&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="left">
   <img height="170" src="https://streak-stats.demolab.com?user=biancaiolanda&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🚀 ...
