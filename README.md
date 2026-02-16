@@ -1,7 +1,7 @@
 # Olá 👋, Prazer Bianca Iolanda
 
 🚀 **Desenvolvedora Junior | .NET | C# | Backend**  
-🇧🇷 Brasil
+🇧🇷 Brazil
 
 Eu construo **sistemas inteligentes**, **plataformas SaaS** e **aplicações web escaláveis** focadas em resolver problemas reais de negócio.
 
@@ -66,12 +66,15 @@ Também desenvolvo soluções que unem **tecnologia, produto e estratégia**, tr
 
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biancaiolanda&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biancaiolanda&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaiolanda&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=biancaiolanda&theme=tokyonight" />
 </p>
 
 ---
