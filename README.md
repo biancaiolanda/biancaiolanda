@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="47%" align="center" valign="middle">
-      <img width="100%" src="./assets/bianca-code-morph.gif" alt="Bianca Iolanda se transformando em pixels e código" />
+      <img width="100%" src="./assets/bianca-code-symbol-v2.gif" alt="Bianca Iolanda se transformando em pixels e no símbolo de código" />
     </td>
     <td width="53%" valign="middle">
       <h2>Olá, eu sou a Bianca 👋</h2>
@@ -39,28 +39,36 @@
 
 ## `01. Sobre mim`
 
-```csharp
-namespace BiancaIolanda.Profile;
+Sou **Desenvolvedora Backend Junior** e estudante de **Engenharia de Software**, no Brasil 🇧🇷.
 
-public sealed class AboutMe
-{
-    public string Role => "Desenvolvedora Backend Junior";
-    public string Education => "Engenharia de Software";
-    public string Location => "Brasil 🇧🇷";
+Minha jornada une desenvolvimento, aprendizado contínuo e criação de conteúdo. Gosto de transformar ideias e necessidades reais em soluções organizadas, funcionais e fáceis de evoluir.
 
-    public string[] Interests =>
-    [
-        "Desenvolvimento de software",
-        "Sistemas e plataformas SaaS",
-        "APIs e integrações",
-        "Arquitetura e banco de dados",
-        "Educação e conteúdo sobre tecnologia"
-    ];
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Minha atuação</h3>
+      <p>
+        Desenvolvimento backend com <strong>C# e .NET</strong>, construção de APIs,
+        implementação de regras de negócio, integrações e modelagem de dados.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>O que me inspira</h3>
+      <p>
+        Criar tecnologia com propósito, compartilhar o que aprendo e desenvolver
+        projetos que aproximem os estudos da realidade do mercado.
+      </p>
+    </td>
+  </tr>
+</table>
 
-    public string Purpose =>
-        "Aprender, construir e compartilhar conhecimento.";
-}
-```
+> Acredito que evoluir na tecnologia é um processo de aprender, construir, testar e compartilhar.
+
+<div align="center">
+
+`Desenvolvimento de Software` · `Sistemas SaaS` · `APIs & Integrações` · `Banco de Dados` · `Educação em Tecnologia`
+
+</div>
 
 ## `02. O que estou construindo`
 
@@ -147,10 +155,10 @@ Requisitos · User Stories · Kanban · Git · Branches · Desenvolvimento · Pu
 ## `06. GitHub em números`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=biancaiolanda&show_icons=true&hide_border=true&bg_color=F8F5EF&title_color=5D4635&icon_color=967457&text_color=352820&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaiolanda&layout=compact&hide_border=true&bg_color=F8F5EF&title_color=5D4635&text_color=352820" alt="Linguagens mais usadas" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biancaiolanda&theme=default&title_color=5D4635&text_color=352820&bg_color=F8F5EF&border_color=DFC9AD&icon_color=967457&animation=rise" alt="Resumo das estatísticas do GitHub" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biancaiolanda&theme=default&title_color=5D4635&text_color=352820&bg_color=F8F5EF&border_color=DFC9AD&icon_color=967457&chart_color=967457&animation=draw" alt="Linguagens utilizadas nos repositórios" />
   <br>
-  <img width="70%" src="https://streak-stats.demolab.com?user=biancaiolanda&hide_border=true&background=F8F5EF&ring=967457&fire=5D4635&currStreakLabel=967457&sideLabels=5D4635&dates=75685F&currStreakNum=352820&sideNums=352820" alt="Sequência de contribuições" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancaiolanda&theme=default&title_color=5D4635&text_color=352820&bg_color=F8F5EF&border_color=DFC9AD&icon_color=967457&chart_color=967457&animation=draw" alt="Histórico de contribuições do GitHub" />
 </div>
 
 ## `07. Contribution journey`
