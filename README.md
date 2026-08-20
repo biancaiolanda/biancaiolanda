@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:F8F5EF,35:DFC9AD,70:967457,100:352820&text=Bianca%20Iolanda&fontColor=352820&fontSize=44&fontAlignY=35&desc=Desenvolvedora%20%26%20Estudante%20de%20Engenharia%20de%20Software&descAlignY=57&descSize=16&animation=fadeIn" alt="Bianca Iolanda" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:F8F5EF,35:DFC9AD,70:967457,100:352820&text=Bianca%20Iolanda&fontColor=352820&fontSize=44&fontAlignY=35&desc=Desenvolvedora%20e%20Estudante%20de%20Engenharia%20de%20Software&descAlignY=57&descSize=16&animation=fadeIn" alt="Bianca Iolanda" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=967457&center=true&vCenter=true&width=780&lines=C%C3%B3digo+%E2%80%A2+Prop%C3%B3sito+%E2%80%A2+Evolu%C3%A7%C3%A3o;Tecnologia%2C+estudos+e+desenvolvimento+na+vida+real;Aprendendo%2C+construindo+e+compartilhando" alt="Código, propósito e evolução" />
